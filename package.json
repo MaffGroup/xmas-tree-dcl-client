@@ -1,5 +1,6 @@
 {
-  "name": "dcl-project",
+  "name": "xmas-tree-dcl-client",
+  "author": "https://github.com/bikevit2008",
   "version": "1.0.0",
   "description": "My new Decentraland project",
   "scripts": {
